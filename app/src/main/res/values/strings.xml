@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">emb_3.2</string>
+    <string name="first_coordinate_p"><![CDATA[First coordinate (< P):]]></string>
+
+    <string-array name="sigmas">
+        <item>0.001</item>
+        <item>0.01</item>
+        <item>0.05</item>
+        <item>0.1</item>
+        <item>0.2</item>
+        <item>0.3</item>
+    </string-array>
+
+    <string-array name="iterations">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+</resources>
